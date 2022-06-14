@@ -2,4 +2,8 @@
 ## A basic Android App that can exchange currency value
 Currency value was taken from [fxexchangerate](fxexchangerate.com)
 ## Video demo
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/-zSlvD2jHy0/0.jpg)](http://www.youtube.com/watch?v=-zSlvD2jHy0 "Currency Converter App")
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/-zSlvD2jHy0 " 
+frameborder="0" 
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
